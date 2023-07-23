@@ -1,0 +1,113 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-color: #9d65c9;
+   
+  }
+  .container1 {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color:#333;
+    
+  }
+  
+  .container2 {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color:#ebd9dd;
+    
+  }
+  .container3 {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color:#d8aed3;
+    
+  }
+  .container4 {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color:#9182c4;
+    
+  }
+  .container5 {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color:#486989;
+    
+  }
+  .container6 {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color:#333a7b;
+    
+  }
+ 
+ 
+  
+  header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+  }
+  
+  header h1 {
+    margin: 0;
+  }
+  
+  nav ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  nav ul li {
+    display: inline-block;
+    margin-right: 20px;
+  }
+  
+  nav ul li a {
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  section {
+    padding: 40px 0;
+    text-align: center;
+  }
+  
+  section h2 {
+    margin-bottom: 20px;
+    color:#333;
+  }
+  
+  section p {
+    margin-bottom: 20px;
+  }
+  
+  img {
+    max-width: 100%;
+    border-radius: 50%;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  }
+  
+  /* Additional styling for the "Home" section */
+  #home {
+    background-color:#54567a;
+  }
+  
+  #home h2 {
+    font-size: 2em;
+    color: #333;
+  }
+  
+  #home p {
+    font-size: 1.2em;
+    color: #555;
+  }
